@@ -1,1 +1,1 @@
-# Heating-Simulation2
+A heating simulation program
